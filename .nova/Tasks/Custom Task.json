@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/usr\/bin\/env python\nmiles=500\nkilos=miles*1.60934   \nprint(kilos)"
+    }
+  },
+  "identifier" : "463E0C3E-D78E-4054-9E07-F08E4624F20C",
+  "openLogOnRun" : "start"
+}
